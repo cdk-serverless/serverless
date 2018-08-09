@@ -10,4 +10,4 @@ In an effort to increase the performance of our Hydra servers, we've been workin
 
 ## The Problem
 
-Currently, LESS compilation is handled on servers we operate in our Las Vegas data center. These servers run 24/7 and are quite costly, especially considering that they are used for specific requests at irregular intervals. Our team decided that this was an excellent opportunity to provide some cost savings.
+Currently, we have provisioned servers to perform LESS compilation in our Las Vegas data center. These servers run 24/7 and are quite costly, especially considering that they are used for specific requests at irregular intervals. Our team decided that this was an excellent opportunity to provide some cost savings.
